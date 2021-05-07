@@ -1,6 +1,6 @@
 {
   "name": "applet-page-component",
-  "version": "1.0.8",
+  "version": "1.0.10",
   "description": "支付宝小程序，组件可以监听页面事件",
   "main": "dist/index.js",
   "scripts": {
