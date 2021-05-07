@@ -1,0 +1,27 @@
+{
+  "name": "applet-page-component",
+  "version": "1.0.8",
+  "description": "支付宝小程序，组件可以监听页面事件",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "webpack --config webpack.config.js"
+  },
+  "keywords": [
+    "支付宝",
+    "小程序",
+    "组件监听页面事件",
+    "组件可以监听页面事件",
+    "applet",
+    "applet-page-component"
+  ],
+  "author": "chenlinboss",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-es2015": "^6.24.1",
+    "clean-webpack-plugin": "*",
+    "webpack": "^4.46.0",
+    "webpack-cli": "^4.6.0"
+  }
+}
