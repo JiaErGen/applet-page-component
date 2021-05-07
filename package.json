@@ -6,6 +6,10 @@
   "scripts": {
     "start": "webpack --config webpack.config.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chenlinboss/applet-page-component/"
+  },
   "keywords": [
     "支付宝",
     "小程序",
